@@ -208,7 +208,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 150000691}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -29.101757, y: 77.78749, z: -58.044968}
+  m_LocalPosition: {x: -11.11, y: 0.27, z: -1.92}
   m_LocalScale: {x: 0.1671, y: 0.1671, z: 0.1671}
   m_Children: []
   m_Father: {fileID: 1300304155}
@@ -1070,6 +1070,11 @@ PrefabInstance:
       propertyPath: m_WarningMessage
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: ec268f0cca5c5c24196824b367bcb847,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ec268f0cca5c5c24196824b367bcb847, type: 3}
 --- !u!1 &928395288 stripped
@@ -1104,7 +1109,7 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.5
-  m_Speed: 3.5
+  m_Speed: 0.5
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 120
@@ -1349,7 +1354,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1137587512}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -58.711758, y: 77.78749, z: -24.804968}
+  m_LocalPosition: {x: 0, y: 0.27, z: 13.9}
   m_LocalScale: {x: 0.1671, y: 0.1671, z: 0.1671}
   m_Children: []
   m_Father: {fileID: 1300304155}
@@ -1470,7 +1475,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1300304154}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 45.401756, y: -77.49749, z: 36.134968}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1137587513}
@@ -1653,7 +1658,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1619658982}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -29.101757, y: 77.78749, z: -24.804968}
+  m_LocalPosition: {x: 2.88, y: 0.27, z: -12.57}
   m_LocalScale: {x: 0.1671, y: 0.1671, z: 0.1671}
   m_Children: []
   m_Father: {fileID: 1300304155}
